@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\Prac8_参数修饰符\bin\Debug\Prac8_参数修饰符.exe.config
+D:\vs_workspace\PracticeForCSharp\Prac8_参数修饰符\bin\Debug\Prac8_参数修饰符.exe
+D:\vs_workspace\PracticeForCSharp\Prac8_参数修饰符\bin\Debug\Prac8_参数修饰符.pdb
+D:\vs_workspace\PracticeForCSharp\Prac8_参数修饰符\obj\Debug\Prac008_参数修饰符.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\Prac8_参数修饰符\obj\Debug\Prac8_参数修饰符.exe
+D:\vs_workspace\PracticeForCSharp\Prac8_参数修饰符\obj\Debug\Prac8_参数修饰符.pdb

@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe.config
+D:\vs_workspace\PracticeForCSharp\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.exe
+D:\vs_workspace\PracticeForCSharp\FunWithGenericCollections\bin\Debug\FunWithGenericCollections.pdb
+D:\vs_workspace\PracticeForCSharp\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.exe
+D:\vs_workspace\PracticeForCSharp\FunWithGenericCollections\obj\Debug\FunWithGenericCollections.pdb

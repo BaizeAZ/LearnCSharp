@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\Prac5_宽化窄化数据类型转换\bin\Debug\Prac5_宽化窄化数据类型转换.exe.config
+D:\vs_workspace\PracticeForCSharp\Prac5_宽化窄化数据类型转换\bin\Debug\Prac5_宽化窄化数据类型转换.exe
+D:\vs_workspace\PracticeForCSharp\Prac5_宽化窄化数据类型转换\bin\Debug\Prac5_宽化窄化数据类型转换.pdb
+D:\vs_workspace\PracticeForCSharp\Prac5_宽化窄化数据类型转换\obj\Debug\Prac005_宽化窄化数据类型转换.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\Prac5_宽化窄化数据类型转换\obj\Debug\Prac5_宽化窄化数据类型转换.exe
+D:\vs_workspace\PracticeForCSharp\Prac5_宽化窄化数据类型转换\obj\Debug\Prac5_宽化窄化数据类型转换.pdb

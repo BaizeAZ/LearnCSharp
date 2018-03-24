@@ -1,0 +1,5 @@
+D:\vs_workspace\PracticeForCSharp\MIInterfaceHierarchy\bin\Debug\MIInterfaceHierarchy.exe.config
+D:\vs_workspace\PracticeForCSharp\MIInterfaceHierarchy\bin\Debug\MIInterfaceHierarchy.exe
+D:\vs_workspace\PracticeForCSharp\MIInterfaceHierarchy\bin\Debug\MIInterfaceHierarchy.pdb
+D:\vs_workspace\PracticeForCSharp\MIInterfaceHierarchy\obj\Debug\MIInterfaceHierarchy.exe
+D:\vs_workspace\PracticeForCSharp\MIInterfaceHierarchy\obj\Debug\MIInterfaceHierarchy.pdb

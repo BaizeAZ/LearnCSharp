@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\CarEvents\bin\Debug\CarEvents.exe.config
+D:\vs_workspace\PracticeForCSharp\CarEvents\bin\Debug\CarEvents.exe
+D:\vs_workspace\PracticeForCSharp\CarEvents\bin\Debug\CarEvents.pdb
+D:\vs_workspace\PracticeForCSharp\CarEvents\obj\Debug\CarEvents.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\CarEvents\obj\Debug\CarEvents.exe
+D:\vs_workspace\PracticeForCSharp\CarEvents\obj\Debug\CarEvents.pdb

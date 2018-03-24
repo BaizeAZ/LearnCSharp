@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\IssuewWithNongenericCollections\bin\Debug\IssuewWithNongenericCollections.exe.config
+D:\vs_workspace\PracticeForCSharp\IssuewWithNongenericCollections\bin\Debug\IssuewWithNongenericCollections.exe
+D:\vs_workspace\PracticeForCSharp\IssuewWithNongenericCollections\bin\Debug\IssuewWithNongenericCollections.pdb
+D:\vs_workspace\PracticeForCSharp\IssuewWithNongenericCollections\obj\Debug\IssuewWithNongenericCollections.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\IssuewWithNongenericCollections\obj\Debug\IssuewWithNongenericCollections.exe
+D:\vs_workspace\PracticeForCSharp\IssuewWithNongenericCollections\obj\Debug\IssuewWithNongenericCollections.pdb
