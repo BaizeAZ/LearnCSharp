@@ -1,0 +1,5 @@
+D:\vs_workspace\PracticeForCSharp\Prac013_初始化内部类型\bin\Debug\Prac013_初始化内部类型.exe.config
+D:\vs_workspace\PracticeForCSharp\Prac013_初始化内部类型\bin\Debug\Prac013_初始化内部类型.exe
+D:\vs_workspace\PracticeForCSharp\Prac013_初始化内部类型\bin\Debug\Prac013_初始化内部类型.pdb
+D:\vs_workspace\PracticeForCSharp\Prac013_初始化内部类型\obj\Debug\Prac013_初始化内部类型.exe
+D:\vs_workspace\PracticeForCSharp\Prac013_初始化内部类型\obj\Debug\Prac013_初始化内部类型.pdb

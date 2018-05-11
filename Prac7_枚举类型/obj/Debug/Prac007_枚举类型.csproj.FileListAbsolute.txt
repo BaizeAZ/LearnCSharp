@@ -1,0 +1,5 @@
+D:\vs_workspace\PracticeForCSharp\Prac7_枚举类型\bin\Debug\Prac7_枚举类型.exe.config
+D:\vs_workspace\PracticeForCSharp\Prac7_枚举类型\bin\Debug\Prac7_枚举类型.exe
+D:\vs_workspace\PracticeForCSharp\Prac7_枚举类型\bin\Debug\Prac7_枚举类型.pdb
+D:\vs_workspace\PracticeForCSharp\Prac7_枚举类型\obj\Debug\Prac7_枚举类型.exe
+D:\vs_workspace\PracticeForCSharp\Prac7_枚举类型\obj\Debug\Prac7_枚举类型.pdb

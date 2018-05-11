@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe.config
+D:\vs_workspace\PracticeForCSharp\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe
+D:\vs_workspace\PracticeForCSharp\CustomGenericMethods\bin\Debug\CustomGenericMethods.pdb
+D:\vs_workspace\PracticeForCSharp\CustomGenericMethods\obj\Debug\CustomGenericMethods.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\CustomGenericMethods\obj\Debug\CustomGenericMethods.exe
+D:\vs_workspace\PracticeForCSharp\CustomGenericMethods\obj\Debug\CustomGenericMethods.pdb

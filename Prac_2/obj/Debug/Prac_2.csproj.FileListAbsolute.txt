@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\Prac_2\bin\Debug\Prac_2.exe.config
+D:\vs_workspace\PracticeForCSharp\Prac_2\bin\Debug\Prac_2.exe
+D:\vs_workspace\PracticeForCSharp\Prac_2\bin\Debug\Prac_2.pdb
+D:\vs_workspace\PracticeForCSharp\Prac_2\obj\Debug\Prac_2.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\Prac_2\obj\Debug\Prac_2.exe
+D:\vs_workspace\PracticeForCSharp\Prac_2\obj\Debug\Prac_2.pdb

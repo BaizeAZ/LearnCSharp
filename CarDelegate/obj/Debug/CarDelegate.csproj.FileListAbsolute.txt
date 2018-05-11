@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\CarDelegate\bin\Debug\CarDelegate.exe.config
+D:\vs_workspace\PracticeForCSharp\CarDelegate\bin\Debug\CarDelegate.exe
+D:\vs_workspace\PracticeForCSharp\CarDelegate\bin\Debug\CarDelegate.pdb
+D:\vs_workspace\PracticeForCSharp\CarDelegate\obj\Debug\CarDelegate.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\CarDelegate\obj\Debug\CarDelegate.exe
+D:\vs_workspace\PracticeForCSharp\CarDelegate\obj\Debug\CarDelegate.pdb

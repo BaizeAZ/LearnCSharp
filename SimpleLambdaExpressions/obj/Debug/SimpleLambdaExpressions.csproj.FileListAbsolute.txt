@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe.config
+D:\vs_workspace\PracticeForCSharp\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.exe
+D:\vs_workspace\PracticeForCSharp\SimpleLambdaExpressions\bin\Debug\SimpleLambdaExpressions.pdb
+D:\vs_workspace\PracticeForCSharp\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.exe
+D:\vs_workspace\PracticeForCSharp\SimpleLambdaExpressions\obj\Debug\SimpleLambdaExpressions.pdb

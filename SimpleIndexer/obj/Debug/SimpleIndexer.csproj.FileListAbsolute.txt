@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\SimpleIndexer\bin\Debug\SimpleIndexer.exe.config
+D:\vs_workspace\PracticeForCSharp\SimpleIndexer\bin\Debug\SimpleIndexer.exe
+D:\vs_workspace\PracticeForCSharp\SimpleIndexer\bin\Debug\SimpleIndexer.pdb
+D:\vs_workspace\PracticeForCSharp\SimpleIndexer\obj\Debug\SimpleIndexer.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\SimpleIndexer\obj\Debug\SimpleIndexer.exe
+D:\vs_workspace\PracticeForCSharp\SimpleIndexer\obj\Debug\SimpleIndexer.pdb

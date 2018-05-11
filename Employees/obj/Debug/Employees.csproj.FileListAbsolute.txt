@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\Employees\bin\Debug\Employees.exe.config
+D:\vs_workspace\PracticeForCSharp\Employees\bin\Debug\Employees.exe
+D:\vs_workspace\PracticeForCSharp\Employees\bin\Debug\Employees.pdb
+D:\vs_workspace\PracticeForCSharp\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\Employees\obj\Debug\Employees.exe
+D:\vs_workspace\PracticeForCSharp\Employees\obj\Debug\Employees.pdb

@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\CustomEnumratorOld\bin\Debug\CustomEnumratorOld.exe.config
+D:\vs_workspace\PracticeForCSharp\CustomEnumratorOld\bin\Debug\CustomEnumratorOld.exe
+D:\vs_workspace\PracticeForCSharp\CustomEnumratorOld\bin\Debug\CustomEnumratorOld.pdb
+D:\vs_workspace\PracticeForCSharp\CustomEnumratorOld\obj\Debug\CustomEnumratorOld.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\CustomEnumratorOld\obj\Debug\CustomEnumratorOld.exe
+D:\vs_workspace\PracticeForCSharp\CustomEnumratorOld\obj\Debug\CustomEnumratorOld.pdb

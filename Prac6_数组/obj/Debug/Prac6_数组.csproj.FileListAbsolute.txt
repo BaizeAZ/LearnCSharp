@@ -1,0 +1,6 @@
+D:\vs_workspace\PracticeForCSharp\Prac6_数组\bin\Debug\Prac6_数组.exe.config
+D:\vs_workspace\PracticeForCSharp\Prac6_数组\bin\Debug\Prac6_数组.exe
+D:\vs_workspace\PracticeForCSharp\Prac6_数组\bin\Debug\Prac6_数组.pdb
+D:\vs_workspace\PracticeForCSharp\Prac6_数组\obj\Debug\Prac6_数组.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\Prac6_数组\obj\Debug\Prac6_数组.exe
+D:\vs_workspace\PracticeForCSharp\Prac6_数组\obj\Debug\Prac6_数组.pdb

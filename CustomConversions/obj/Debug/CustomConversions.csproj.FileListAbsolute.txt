@@ -1,0 +1,9 @@
+D:\vs_workspace\PracticeForCSharp\CustomConversions\bin\Debug\CustomConversions.exe.config
+D:\vs_workspace\PracticeForCSharp\CustomConversions\bin\Debug\CustomConversions.exe
+D:\vs_workspace\PracticeForCSharp\CustomConversions\bin\Debug\CustomConversions.pdb
+D:\vs_workspace\PracticeForCSharp\CustomConversions\obj\Debug\CustomConversions.csprojResolveAssemblyReference.cache
+D:\vs_workspace\PracticeForCSharp\CustomConversions\obj\Debug\CustomConversions.exe
+D:\vs_workspace\PracticeForCSharp\CustomConversions\obj\Debug\CustomConversions.pdb
+E:\GitWork\PracticeForCSharp\CustomConversions\bin\Debug\CustomConversions.exe.config
+E:\GitWork\PracticeForCSharp\CustomConversions\obj\Debug\CustomConversions.exe
+E:\GitWork\PracticeForCSharp\CustomConversions\obj\Debug\CustomConversions.pdb
