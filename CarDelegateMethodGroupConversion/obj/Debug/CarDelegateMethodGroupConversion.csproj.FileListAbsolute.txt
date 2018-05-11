@@ -1,5 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\CarDelegateMethodGroupConversion\bin\Debug\CarDelegateMethodGroupConversion.exe.config
-D:\vs_workspace\PracticeForCSharp\CarDelegateMethodGroupConversion\bin\Debug\CarDelegateMethodGroupConversion.exe
-D:\vs_workspace\PracticeForCSharp\CarDelegateMethodGroupConversion\bin\Debug\CarDelegateMethodGroupConversion.pdb
-D:\vs_workspace\PracticeForCSharp\CarDelegateMethodGroupConversion\obj\Debug\CarDelegateMethodGroupConversion.exe
-D:\vs_workspace\PracticeForCSharp\CarDelegateMethodGroupConversion\obj\Debug\CarDelegateMethodGroupConversion.pdb

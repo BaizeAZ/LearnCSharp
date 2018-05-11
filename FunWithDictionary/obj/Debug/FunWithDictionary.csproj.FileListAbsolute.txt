@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\FunWithDictionary\bin\Debug\FunWithDictionary.exe.config
-D:\vs_workspace\PracticeForCSharp\FunWithDictionary\bin\Debug\FunWithDictionary.exe
-D:\vs_workspace\PracticeForCSharp\FunWithDictionary\bin\Debug\FunWithDictionary.pdb
-D:\vs_workspace\PracticeForCSharp\FunWithDictionary\obj\Debug\FunWithDictionary.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\FunWithDictionary\obj\Debug\FunWithDictionary.exe
-D:\vs_workspace\PracticeForCSharp\FunWithDictionary\obj\Debug\FunWithDictionary.pdb

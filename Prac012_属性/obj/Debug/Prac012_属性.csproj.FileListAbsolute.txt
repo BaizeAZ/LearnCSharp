@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\Prac012_属性\bin\Debug\Prac012_属性.exe.config
-D:\vs_workspace\PracticeForCSharp\Prac012_属性\bin\Debug\Prac012_属性.exe
-D:\vs_workspace\PracticeForCSharp\Prac012_属性\bin\Debug\Prac012_属性.pdb
-D:\vs_workspace\PracticeForCSharp\Prac012_属性\obj\Debug\Prac012_属性.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\Prac012_属性\obj\Debug\Prac012_属性.exe
-D:\vs_workspace\PracticeForCSharp\Prac012_属性\obj\Debug\Prac012_属性.pdb

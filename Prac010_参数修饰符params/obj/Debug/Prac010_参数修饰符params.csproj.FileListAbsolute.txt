@@ -1,5 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\Prac010_参数修饰符params\bin\Debug\Prac010_参数修饰符params.exe.config
-D:\vs_workspace\PracticeForCSharp\Prac010_参数修饰符params\bin\Debug\Prac010_参数修饰符params.exe
-D:\vs_workspace\PracticeForCSharp\Prac010_参数修饰符params\bin\Debug\Prac010_参数修饰符params.pdb
-D:\vs_workspace\PracticeForCSharp\Prac010_参数修饰符params\obj\Debug\Prac010_参数修饰符params.exe
-D:\vs_workspace\PracticeForCSharp\Prac010_参数修饰符params\obj\Debug\Prac010_参数修饰符params.pdb

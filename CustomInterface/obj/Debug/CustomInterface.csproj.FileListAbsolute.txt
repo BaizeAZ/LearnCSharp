@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\CustomInterface\bin\Debug\CustomInterface.exe.config
-D:\vs_workspace\PracticeForCSharp\CustomInterface\bin\Debug\CustomInterface.exe
-D:\vs_workspace\PracticeForCSharp\CustomInterface\bin\Debug\CustomInterface.pdb
-D:\vs_workspace\PracticeForCSharp\CustomInterface\obj\Debug\CustomInterface.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\CustomInterface\obj\Debug\CustomInterface.exe
-D:\vs_workspace\PracticeForCSharp\CustomInterface\obj\Debug\CustomInterface.pdb

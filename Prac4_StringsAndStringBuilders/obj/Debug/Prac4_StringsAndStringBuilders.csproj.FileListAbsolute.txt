@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\Prac4_StringsAndStringBuilders\bin\Debug\Prac4_StringsAndStringBuilders.exe.config
-D:\vs_workspace\PracticeForCSharp\Prac4_StringsAndStringBuilders\bin\Debug\Prac4_StringsAndStringBuilders.exe
-D:\vs_workspace\PracticeForCSharp\Prac4_StringsAndStringBuilders\bin\Debug\Prac4_StringsAndStringBuilders.pdb
-D:\vs_workspace\PracticeForCSharp\Prac4_StringsAndStringBuilders\obj\Debug\Prac4_StringsAndStringBuilders.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\Prac4_StringsAndStringBuilders\obj\Debug\Prac4_StringsAndStringBuilders.exe
-D:\vs_workspace\PracticeForCSharp\Prac4_StringsAndStringBuilders\obj\Debug\Prac4_StringsAndStringBuilders.pdb

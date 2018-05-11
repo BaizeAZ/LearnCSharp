@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\GenericPoint\bin\Debug\GenericPoint.exe.config
-D:\vs_workspace\PracticeForCSharp\GenericPoint\obj\Debug\GenericPoint.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\GenericPoint\bin\Debug\GenericPoint.exe
-D:\vs_workspace\PracticeForCSharp\GenericPoint\bin\Debug\GenericPoint.pdb
-D:\vs_workspace\PracticeForCSharp\GenericPoint\obj\Debug\GenericPoint.exe
-D:\vs_workspace\PracticeForCSharp\GenericPoint\obj\Debug\GenericPoint.pdb

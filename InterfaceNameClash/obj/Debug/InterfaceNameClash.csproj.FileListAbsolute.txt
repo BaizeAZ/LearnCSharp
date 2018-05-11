@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe.config
-D:\vs_workspace\PracticeForCSharp\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
-D:\vs_workspace\PracticeForCSharp\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
-D:\vs_workspace\PracticeForCSharp\InterfaceNameClash\obj\Debug\InterfaceNameClash.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
-D:\vs_workspace\PracticeForCSharp\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

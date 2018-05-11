@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\GenericDelegate\bin\Debug\GenericDelegate.exe.config
-D:\vs_workspace\PracticeForCSharp\GenericDelegate\bin\Debug\GenericDelegate.exe
-D:\vs_workspace\PracticeForCSharp\GenericDelegate\bin\Debug\GenericDelegate.pdb
-D:\vs_workspace\PracticeForCSharp\GenericDelegate\obj\Debug\GenericDelegate.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\GenericDelegate\obj\Debug\GenericDelegate.exe
-D:\vs_workspace\PracticeForCSharp\GenericDelegate\obj\Debug\GenericDelegate.pdb

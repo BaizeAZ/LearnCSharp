@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.exe.config
-D:\vs_workspace\PracticeForCSharp\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.exe
-D:\vs_workspace\PracticeForCSharp\InterfaceHierarchy\bin\Debug\InterfaceHierarchy.pdb
-D:\vs_workspace\PracticeForCSharp\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.exe
-D:\vs_workspace\PracticeForCSharp\InterfaceHierarchy\obj\Debug\InterfaceHierarchy.pdb

@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\PracticeForCSharp\bin\Debug\PracticeForCSharp.exe.config
-D:\vs_workspace\PracticeForCSharp\PracticeForCSharp\bin\Debug\PracticeForCSharp.exe
-D:\vs_workspace\PracticeForCSharp\PracticeForCSharp\bin\Debug\PracticeForCSharp.pdb
-D:\vs_workspace\PracticeForCSharp\PracticeForCSharp\obj\Debug\001_按值传递引用类型.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\PracticeForCSharp\obj\Debug\PracticeForCSharp.exe
-D:\vs_workspace\PracticeForCSharp\PracticeForCSharp\obj\Debug\PracticeForCSharp.pdb

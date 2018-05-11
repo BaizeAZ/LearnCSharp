@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\Shapes\bin\Debug\Shapes.exe.config
-D:\vs_workspace\PracticeForCSharp\Shapes\bin\Debug\Shapes.exe
-D:\vs_workspace\PracticeForCSharp\Shapes\bin\Debug\Shapes.pdb
-D:\vs_workspace\PracticeForCSharp\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\Shapes\obj\Debug\Shapes.exe
-D:\vs_workspace\PracticeForCSharp\Shapes\obj\Debug\Shapes.pdb

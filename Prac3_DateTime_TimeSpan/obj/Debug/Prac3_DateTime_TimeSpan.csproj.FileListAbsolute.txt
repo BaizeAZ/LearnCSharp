@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\Prac3_DateTime_TimeSpan\bin\Debug\Prac3_DateTime_TimeSpan.exe.config
-D:\vs_workspace\PracticeForCSharp\Prac3_DateTime_TimeSpan\bin\Debug\Prac3_DateTime_TimeSpan.exe
-D:\vs_workspace\PracticeForCSharp\Prac3_DateTime_TimeSpan\bin\Debug\Prac3_DateTime_TimeSpan.pdb
-D:\vs_workspace\PracticeForCSharp\Prac3_DateTime_TimeSpan\obj\Debug\Prac3_DateTime_TimeSpan.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\Prac3_DateTime_TimeSpan\obj\Debug\Prac3_DateTime_TimeSpan.exe
-D:\vs_workspace\PracticeForCSharp\Prac3_DateTime_TimeSpan\obj\Debug\Prac3_DateTime_TimeSpan.pdb

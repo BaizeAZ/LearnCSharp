@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\SimpleDelegate\bin\Debug\SimpleDelegate.exe.config
-D:\vs_workspace\PracticeForCSharp\SimpleDelegate\bin\Debug\SimpleDelegate.exe
-D:\vs_workspace\PracticeForCSharp\SimpleDelegate\bin\Debug\SimpleDelegate.pdb
-D:\vs_workspace\PracticeForCSharp\SimpleDelegate\obj\Debug\SimpleDelegate.csprojResolveAssemblyReference.cache
-D:\vs_workspace\PracticeForCSharp\SimpleDelegate\obj\Debug\SimpleDelegate.exe
-D:\vs_workspace\PracticeForCSharp\SimpleDelegate\obj\Debug\SimpleDelegate.pdb

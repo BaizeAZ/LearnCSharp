@@ -1,5 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\Prac011_构造函数链\bin\Debug\Prac011_构造函数链.exe.config
-D:\vs_workspace\PracticeForCSharp\Prac011_构造函数链\bin\Debug\Prac011_构造函数链.exe
-D:\vs_workspace\PracticeForCSharp\Prac011_构造函数链\bin\Debug\Prac011_构造函数链.pdb
-D:\vs_workspace\PracticeForCSharp\Prac011_构造函数链\obj\Debug\Prac011_构造函数链.exe
-D:\vs_workspace\PracticeForCSharp\Prac011_构造函数链\obj\Debug\Prac011_构造函数链.pdb

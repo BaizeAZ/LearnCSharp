@@ -1,5 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe.config
-D:\vs_workspace\PracticeForCSharp\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.exe
-D:\vs_workspace\PracticeForCSharp\ActionAndFuncDelegates\bin\Debug\ActionAndFuncDelegates.pdb
-D:\vs_workspace\PracticeForCSharp\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.exe
-D:\vs_workspace\PracticeForCSharp\ActionAndFuncDelegates\obj\Debug\ActionAndFuncDelegates.pdb

@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\Prac\bin\Debug\Prac.exe.config
-D:\vs_workspace\PracticeForCSharp\Prac\bin\Debug\Prac.exe
-D:\vs_workspace\PracticeForCSharp\Prac\bin\Debug\Prac.pdb
-D:\vs_workspace\PracticeForCSharp\Prac\obj\Debug\Prac.exe
-D:\vs_workspace\PracticeForCSharp\Prac\obj\Debug\Prac.pdb
-D:\vs_workspace\PracticeForCSharp\Prac\obj\Debug\Prac.csprojResolveAssemblyReference.cache

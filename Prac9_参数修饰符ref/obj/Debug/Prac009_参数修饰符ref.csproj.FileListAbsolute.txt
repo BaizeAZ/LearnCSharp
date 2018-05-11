@@ -1,6 +1,0 @@
-D:\vs_workspace\PracticeForCSharp\Prac9_参数修饰符ref\bin\Debug\Prac9_参数修饰符ref.exe.config
-D:\vs_workspace\PracticeForCSharp\Prac9_参数修饰符ref\obj\Debug\Prac9_参数修饰符ref.exe
-D:\vs_workspace\PracticeForCSharp\Prac9_参数修饰符ref\obj\Debug\Prac9_参数修饰符ref.pdb
-D:\vs_workspace\PracticeForCSharp\Prac9_参数修饰符ref\bin\Debug\Prac9_参数修饰符ref.exe
-D:\vs_workspace\PracticeForCSharp\Prac9_参数修饰符ref\bin\Debug\Prac9_参数修饰符ref.pdb
-D:\vs_workspace\PracticeForCSharp\Prac9_参数修饰符ref\obj\Debug\Prac009_参数修饰符ref.csprojResolveAssemblyReference.cache
